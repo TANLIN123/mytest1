@@ -1,0 +1,25 @@
+
+#  别名指定
+mybatis:
+  type-aliases-package: com.itheima.pojo
+#  mapper-locations: classpath:com/itheima/dao/*.xml
+
+#配置数据源
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/lianxi?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+redis:
+  host: 127.0.0.1
+    #配置tomcat得端口号
+server:
+  port: 18081
+
+#日志配置
+logging:
+  level:
+    com.itheima.dao: debug
+
+
