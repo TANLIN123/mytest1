@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo_enter/dubbo_enter.iml" filepath="$PROJECT_DIR$/dubbo_enter/dubbo_enter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_demo01/springboot_demo01.iml" filepath="$PROJECT_DIR$/springboot_demo01/springboot_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_demo01/springboot_demo01.iml" filepath="$PROJECT_DIR$/springboot_demo01/springboot_demo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_jpa/springboot_jpa.iml" filepath="$PROJECT_DIR$/springboot_jpa/springboot_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_jpa/springboot_jpa.iml" filepath="$PROJECT_DIR$/springboot_jpa/springboot_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
     </modules>
   </component>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dubbo_enter" />
         <module name="springboot_jpa" />
         <module name="springboot_demo01" />
         <module name="springboot_mybatis" />
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="demo1" target="1.8" />
+      <module name="dubbo_enter" target="1.8" />
       <module name="springboot_demo01" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
